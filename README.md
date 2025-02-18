@@ -33,7 +33,7 @@ To reproduce the experiments, ensure you have installed:
 
 - **Python 3.7 or higher**
 - Required Python libraries:
-  - `rapdis` 
+  - `rapids` 
   - `dask` 
   - `pandas` 
   - `numpy` 
